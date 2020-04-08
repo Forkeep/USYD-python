@@ -34,9 +34,9 @@ def total_area(ls):
                 break
     return area_sum
 
-
-ls = [(3, 4), (10, 12), (5, 5)]
-print(total_area(ls))   # 157
+#
+# ls = [(3, 4), (10, 12), (5, 5)]
+# print(total_area(ls))   # 157
 
 
 
