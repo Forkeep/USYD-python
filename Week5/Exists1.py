@@ -1,6 +1,5 @@
 def exists(ls, elem):
     i = 0
-    flag = False
     while i < len(ls):
         if ls[i] == elem:
             return True
